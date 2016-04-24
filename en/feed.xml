@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source Days</title>
-    <description>GDG DevFest is a set of events all around the world</description>
+    <description>Open Source Days is technology conference focused on FLOSS solutions and community</description>
     <link>https://dwo.info.pl/en/</link>
     <atom:link href="https://dwo.info.pl/en/feed.xml" rel="self" type="application/rss+xml" />
     

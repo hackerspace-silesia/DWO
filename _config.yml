@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Open Source Days"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "sponsors@dwo.info.pl"
+description: "Open Source Days is technology conference focused on FLOSS solutions and community"
 baseurl: ""
 url: "https://dwo.info.pl"
 permalink: "/blog/:title"

@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+- 2.2
+script: bash ./deploy.sh
+branches:
+  only:
+    - master
+env:
+  global:
+  - GH_REF: github.com/hackerspace-silesia/zeppelin.git

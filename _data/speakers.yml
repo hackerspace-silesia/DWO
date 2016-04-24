@@ -1,9 +1,8 @@
 -
-  id: 3
-  name: "Dominik"
-  surname: "Kozaczko"
-  company: "Solution4Future"
+  id: 2
+  name: ""
+  surname: ""
+  company: ""
   title: "DWO BDFL"
   bio: "Dominik started DWO conference!"
-  thumbnailUrl: DawidOstrowski.jpg
-  rockstar: true
+  thumbnailUrl: DominikKozaczko.png

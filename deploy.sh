@@ -10,10 +10,11 @@ git clone "https://${GH_TOKEN}@${GH_REF}" _site --branch gh-pages
 bundle exec jekyll build
 
 # copy travis for whitelisting only master branch
-cp .travis.yml dist
+cp .travis.yml _site
+cp CNAME _site
 
 # go to the out directory and create a *new* Git repo
-cd dist
+cd _site
 
 # inside this git repo we'll pretend to be a new user
 git config user.name "Build bot by Kamil"

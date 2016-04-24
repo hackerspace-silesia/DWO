@@ -2,18 +2,19 @@
 set -e # exit with nonzero exit code if anything fails
 
 # clear and re-create the out directory
-rm -rf dist || exit 0;
+rm -rf _site || exit 0;
 MESSAGE=$(git log -1 HEAD --pretty=format:%s)
-git clone "https://${GH_TOKEN}@${GH_REF}" dist --branch gh-pages
+git clone "https://${GH_TOKEN}@${GH_REF}" _site --branch gh-pages
 
 # run our compile script, discussed above
-grunt build
+bundle exec jekyll build
 
 # copy travis for whitelisting only master branch
-cp .travis.yml dist
+cp .travis.yml _site
+cp CNAME _site
 
 # go to the out directory and create a *new* Git repo
-cd dist
+cd _site
 
 # inside this git repo we'll pretend to be a new user
 git config user.name "Build bot by Kamil"

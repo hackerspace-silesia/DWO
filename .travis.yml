@@ -1,0 +1,11 @@
+language: ruby
+rvm:
+- 2.2
+script: bash ./deploy.sh
+branches:
+  only:
+    - master
+env:
+  global:
+  - GH_REF: github.com/hackerspace-silesia/DWO.git
+  - secure: "kGJyLJeGewxoNzRBjw1ozbkOnUkZorQtOE+KvvP0EfYnj2I/KCU1LWQ5NYQusMXt+wuHUYx5h7QzffCfpLuEr5OYE85bKdrA1Rz5+ki1y9t5W/pc0hof+VAYBnND1H2dvRcsCYUL3Zwq7bkV70DFW2vlW4oq1URXLn6x86P5qGMoZ++SWtconODx/962A/DehI9b7ndk4dqHpNN/PvAssfEid9se2j8UoXkHmWrUiBRy3M7rJ9WNJ1piEhwCCLDNfCLMgXEi2ty8Ufn/y9F742qeZHeacj5o00ud7/rTxV9ZOCflWA13XdoqyRy9QUdZhJH3tpy4rJttTHZ9ai41oCQMFmNGp2coYkx9UR1c8Kc44pQQOsiOKnbEzpi3VbM/qXuqStjX+dnIL+r2C6RpMM3uOXL9Xd322RorWtKI8HU5cc1FhUHG+AdihVdZm1Yp7tvdhNxFFPWhCLJscyT4jifexUXN2QDWCP1FDasvXo0kdqTMiM54q8n8cy052wUJHW3ThhkXlqre7Rspibdr9tQt2qY82q7xIVHAtmexo7C1wq2Nra5bvS0uKjXHYvEsl/5DHkpFVuORVmTgmbpDSE5cVOD1kWo4QkcPUCO9qORH0LwAAWaJvWkl/upG4fqOjTutnbASJAA6R7Z4ws7yedzb6Z8ug+05lkqkRLPKqDA="

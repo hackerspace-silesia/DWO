@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't be a jerk policy
+title: site.cod
 permalink: /cod/
 isStaticPost: true
 ---

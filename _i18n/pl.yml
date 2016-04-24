@@ -1,0 +1,23 @@
+---
+site:
+  conference_name: Dni Wolnego Oprogramowania
+  metaKeywords: "event, dwo, open source days, programming, android, chrome, developers, free software, bielsko-biala"
+
+  organizersTitle: "Organizatorzy"
+  partnersTitle: "Partnerzy"
+  partnersC4sponsorsButton: "Zostań sponsorem"
+  ticketSales: "Bilety będą dostępne od"
+  read_more: "czytaj dalej"
+  logistics: "Dostań się na DWO!"
+  blog: "Blog"
+  team: "Zespół"
+  event: "Agenda"
+  cod: "Kodeks postępowania"
+  speakers: "Prelegenci"
+
+
+sponsors:
+  pdf: "/assets/sponsors_pl.pdf"
+
+posts:
+  cfp: "Call for Papers"

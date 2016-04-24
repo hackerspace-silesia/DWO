@@ -1,0 +1,22 @@
+---
+site:
+  conference_name: Open Source Days
+  metaKeywords: "event, dwo, open source days, programming, android, chrome, developers, free software, bielsko-biala"
+
+  organizersTitle: "Organizers"
+  partnersTitle: "Partners"
+  partnersC4sponsorsButton: "Become a sponsor"
+  ticketSales: "Ticket sales will begin on"
+  read_more: "continue reading"
+  logistics: "Get ready for Open Source Days!"
+  blog: "Blog"
+  team: "Team"
+  event: "Event schedule"
+  cod: "Code of Conduct"
+  speakers: "Speakers"
+
+sponsors:
+  pdf: "/assets/sponsors_en.pdf"
+
+posts:
+  cfp: "Call for Papers"

@@ -5,3 +5,4 @@
   elements:
     - {name: "Hackerspace Silesia", description: "Hackersapce Silesia - geek community", link: "http://hs-silesia.pl", imageUrl: "hs.png"}
     - {name: "Redber", description: "Redber", link: "http://redber.pl", imageUrl: "redber.png"}
+    - {name: "ATH", description: "Akademia Techniczno-Humanistyczna", link: "http://info.ath.bielsko.pl/", imageUrl: "ath.png"}

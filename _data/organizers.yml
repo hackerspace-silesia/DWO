@@ -1,7 +1,7 @@
 -
   group:
-    pl: "Główny organizator"
-    en: "Main organizer"
+    pl: "Organizator"
+    en: "Organizer"
   elements:
     - {name: "Hackerspace Silesia", description: "Hackersapce Silesia - geek community", link: "http://hs-silesia.pl", imageUrl: "hs.png"}
     - {name: "Redber", description: "Redber", link: "http://redber.pl", imageUrl: "redber.png"}

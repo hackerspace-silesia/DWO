@@ -4,7 +4,6 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site[site.lang].organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group[site.lang] }}</h5>
             <ul class="list-inline">
                 {% for element in organizer.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>

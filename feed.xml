@@ -6,5 +6,33 @@
     <link>https://dwo.info.pl/</link>
     <atom:link href="https://dwo.info.pl/feed.xml" rel="self" type="application/rss+xml" />
     
+      <item>
+        <title>posts.cfp</title>
+        <description>&lt;p&gt;Konferencja Dni Wolnego Oprogramowania ma bardzo szeroką tematykę nie związaną tylko i jedynie z wolnym oprogramowaniem. Tematyka prelekcji może być bardzo szeroka. Poniżej tylko niektóre z możliwych tematów które nas interesują:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prywatność - jak dbać o swoje bezpieczeństwo w sieci&lt;/li&gt;
+  &lt;li&gt;Open source&lt;/li&gt;
+  &lt;li&gt;Internet of Things&lt;/li&gt;
+  &lt;li&gt;Architektura oprogramowania&lt;/li&gt;
+  &lt;li&gt;Open hardware&lt;/li&gt;
+  &lt;li&gt;Open access&lt;/li&gt;
+  &lt;li&gt;Jak projektować interfejsy? UX/UI w praktyce&lt;/li&gt;
+  &lt;li&gt;Big data / Machine Learning / Open data&lt;/li&gt;
+  &lt;li&gt;Współpraca w zespole. Jak tworzyć zgrany “team”?&lt;/li&gt;
+  &lt;li&gt;Security - bezpieczeństwo szeroko rozumiane&lt;/li&gt;
+  &lt;li&gt;Performance - jak zadbać o wydajność naszych aplikacji&lt;/li&gt;
+  &lt;li&gt;Case study twojego projektu&lt;/li&gt;
+  &lt;li&gt;Skalowanie rozwiązań&lt;/li&gt;
+  &lt;li&gt;Społeczność wolnego i otwartego oprogramowania :) co robić by stać się jej częścią i lepiej się komunikować.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Call for proposals jest dostępne do 3 maja&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Apr 2016 09:00:00 +0000</pubDate>
+        <link>https://dwo.info.pl/blog/call-for-papers</link>
+        <guid isPermaLink="true">https://dwo.info.pl/blog/call-for-papers</guid>
+      </item>
+    
   </channel>
 </rss>

@@ -5,12 +5,12 @@
             <h3>{{ site[site.lang].prelegentTitle }}</h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
-                {% for prelegent in site[site.lang].prelegents %}
+                {% for prelegent in site.data.speakers limit:4 %}
                 {% assign colWidth = 12 | divided_by: forloop.length %}
                 <div class="col-md-{{ colWidth }} col-xs-6">
                     <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
-                        <img class="img-circle" src="{{ site.baseurl }}/img/prelegents/{{ prelegent.image }}" height="128" width="128" alt="{{ about.name }}">
-                        <h5>{{ prelegent.name }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/people/{{ prelegent.thumbnailUrl }}" height="128" width="128" alt="{{ prelegent.name }} {{ prelegent.surname }}">
+                        <h5>{{ prelegent.name }} {{ prelegent.surname }}</h5>
                         <p>{{ prelegent.title }}</p>
                     </div>
                 </div>

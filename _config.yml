@@ -56,6 +56,7 @@ pl:
   - {title: "Idea", image: "conference.jpg", text: "Ruch Open Source to przede wszystkim nastawienie na innowacyjność, kreatywność i chęć dzielenia się wiedzą. Nie ogranicza się on wyłącznie do kodu źródłowego aplikacji - ruch ten wywiera wpływ na ekologię, sprzęt, powszechny dostęp do wiedzy i edukacji." }
   - {title: "Społeczność", image: "workshop.jpg", text: "Żadna idea nigdy nie odniosła sukcesu bez zaangażowania zwykłych ludzi. Ty również możesz zmieniać świat wokół nas! ‘Uwolnij się’ :-) i dołącz do społeczności Open Source!" }
   - {title: "Warsztaty", image: "hackathon.jpg", text: "W społeczności Open Source jest wiele osób, które posiadają konkretne umiejętności, a przy tym chętnie się nimi dzielą. Wielu jest również tych, którzy starają się tego rodzaju umiejętności w sobie wykształcić. Warsztaty pozwalają im się spotkać." }
+  prelegentTitle: "Prelegenci"
   ticketsTitle: "Bilety"
   ticketsOffers:
    -
@@ -131,6 +132,7 @@ en:
   - {title: "Idea", image: "conference.jpg", text: "Ruch Open Source to przede wszystkim nastawienie na innowacyjność, kreatywność i chęć dzielenia się wiedzą. Nie ogranicza się on wyłącznie do kodu źródłowego aplikacji - ruch ten wywiera wpływ na ekologię, sprzęt, powszechny dostęp do wiedzy i edukacji." }
   - {title: "Community", image: "workshop.jpg", text: "Żadna idea nigdy nie odniosła sukcesu bez zaangażowania zwykłych ludzi. Ty również możesz zmieniać świat wokół nas! ‘Uwolnij się’ :-) i dołącz do społeczności Open Source!" }
   - {title: "Workshops", image: "hackathon.jpg", text: "W społeczności Open Source jest wiele osób, które posiadają konkretne umiejętności, a przy tym chętnie się nimi dzielą. Wielu jest również tych, którzy starają się tego rodzaju umiejętności w sobie wykształcić. Warsztaty pozwalają im się spotkać." }
+  prelegentTitle: "Prelegents"
   ticketsTitle: "Tickets"
   ticketsOffers:
    -

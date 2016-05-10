@@ -1,4 +1,36 @@
 -
+  id: 3
+  name: "Dariusz"
+  surname: "Wylon"
+  title: "CCO @ Selleo"
+  company: ""
+  bio: ""
+  thumbnailUrl: "dariusz.jpg"
+-
+  id: 4
+  name: "Karol"
+  surname: "Ryt"
+  title: "Kreatywny rozwiązywacz problemów inżynierskich"
+  company: ""
+  bio: ""
+  thumbnailUrl: "karol.jpg"
+-
+  id: 5
+  name: "Heitor"
+  surname: "Medrado De Faria"
+  title: "Bacula Open Source backup software"
+  company: ""
+  bio: ""
+  thumbnailUrl: "heitor.jpg"
+-
+  id: 6
+  name: "Agnieszka"
+  surname: "Pawlicka"
+  title: "Scrum Master @ Selleo"
+  company: ""
+  bio: ""
+  thumbnailUrl: "agnieszka.jpg"
+-
   id: 2
   name: ""
   surname: ""

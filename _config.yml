@@ -56,6 +56,24 @@ pl:
   - {title: "Idea", image: "conference.jpg", text: "Ruch Open Source to przede wszystkim nastawienie na innowacyjność, kreatywność i chęć dzielenia się wiedzą. Nie ogranicza się on wyłącznie do kodu źródłowego aplikacji - ruch ten wywiera wpływ na ekologię, sprzęt, powszechny dostęp do wiedzy i edukacji." }
   - {title: "Społeczność", image: "workshop.jpg", text: "Żadna idea nigdy nie odniosła sukcesu bez zaangażowania zwykłych ludzi. Ty również możesz zmieniać świat wokół nas! ‘Uwolnij się’ :-) i dołącz do społeczności Open Source!" }
   - {title: "Warsztaty", image: "hackathon.jpg", text: "W społeczności Open Source jest wiele osób, które posiadają konkretne umiejętności, a przy tym chętnie się nimi dzielą. Wielu jest również tych, którzy starają się tego rodzaju umiejętności w sobie wykształcić. Warsztaty pozwalają im się spotkać." }
+  prelegentTitle: "Prelegenci"
+  prelegents:
+    -
+     name: "Dariusz Wylon"
+     title: "CCO @ Selleo"
+     image: "dariusz.jpg"
+    -
+     name: "Karol Ryt"
+     title: "Kreatywny rozwiązywacz problemów inżynierskich"
+     image: "karol.jpg"
+    -
+     name: "Heitor Medrado De Faria"
+     title: "Bacula Open Source backup software"
+     image: "heitor.jpg"
+    -
+     name: "Agnieszka Pawlicka"
+     title: "Scrum Master @ Selleo"
+     image: "agnieszka.jpg"
   ticketsTitle: "Bilety"
   ticketsOffers:
    -
@@ -131,6 +149,24 @@ en:
   - {title: "Idea", image: "conference.jpg", text: "Ruch Open Source to przede wszystkim nastawienie na innowacyjność, kreatywność i chęć dzielenia się wiedzą. Nie ogranicza się on wyłącznie do kodu źródłowego aplikacji - ruch ten wywiera wpływ na ekologię, sprzęt, powszechny dostęp do wiedzy i edukacji." }
   - {title: "Community", image: "workshop.jpg", text: "Żadna idea nigdy nie odniosła sukcesu bez zaangażowania zwykłych ludzi. Ty również możesz zmieniać świat wokół nas! ‘Uwolnij się’ :-) i dołącz do społeczności Open Source!" }
   - {title: "Workshops", image: "hackathon.jpg", text: "W społeczności Open Source jest wiele osób, które posiadają konkretne umiejętności, a przy tym chętnie się nimi dzielą. Wielu jest również tych, którzy starają się tego rodzaju umiejętności w sobie wykształcić. Warsztaty pozwalają im się spotkać." }
+  prelegentTitle: "Prelegents"
+  prelegents:
+    -
+     name: "Dariusz Wylon"
+     title: "CCO @ Selleo"
+     image: "dariusz.jpg"
+    -
+     name: "Karol Ryt"
+     title: "Kreatywny rozwiązywacz problemów inżynierskich"
+     image: "karol.jpg"
+    -
+     name: "Heitor Medrado De Faria"
+     title: "Bacula Open Source backup software"
+     image: "heitor.jpg"
+    -
+     name: "Agnieszka Pawlicka"
+     title: "Scrum Master @ Selleo"
+     image: "agnieszka.jpg"
   ticketsTitle: "Tickets"
   ticketsOffers:
    -
@@ -205,8 +241,8 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Miejsce"
-eventLocationName: "ATH "
+locationBlockTitle: "Lokalizacja"
+eventLocationName: "Budynek L (Sala L128) ATH"
 eventLocationLink: "http://info.ath.bielsko.pl/"
 eventStreetAddress: "Willowa 2"
 eventAddressLocality: "Bielsko-Biała"
@@ -215,6 +251,8 @@ eventPostalCode: "43-300"
 eventAddressCountry: "Polska"
 eventStartTime: "2016-06-10T15:00"
 eventDoorTime: "15:00"
+eventStartAddrTime: "10:00"
+eventEndAddrTime: "22:00"
 eventStartTime: "2016-06-12T15:00"
 eventPlaceCoordinates: "49.783050, 19.057579"
 mapCenterCoordinates: "49.7841414, 19.0577026"

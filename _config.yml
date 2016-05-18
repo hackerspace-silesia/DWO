@@ -18,7 +18,7 @@ url: "https://dwo.info.pl"
 permalink: "/blog/:title"
 languages: ["pl", "en"]
 gems:
-  - jekyll/multiple/languages/plugin
+  - jekyll-multiple-languages-plugin
 
 # Organizer Info
 organizerName: "Hackerspace Silesia"

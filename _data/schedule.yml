@@ -1,75 +1,111 @@
 -
   date: "2016-06-10"
-  dateReadable: "11 czerwiec"
+  dateReadable: "10 czerwca"
   tracks:
-    - {title: "Prelekcje", color: "#90be4e"}
-    - {title: "Warsztaty", color: "#03a9f4"}
+    - {title: "Zajęcia dla najmłodszych", color: "#03a9f4"}
   timeslots:
     - {
       startTime: "10:00",
-      endTime: "10:45",
-      sessionIds: []
+      endTime: "12:00",
+      sessionIds: [004]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: []
-    }
-    - {
-      startTime: "12:00",
-      endTime: "11:45",
-      sessionIds: []
+      startTime: "13:00",
+      endTime: "15:30",
+      sessionIds: [005]
     }
 -
   date: "2016-06-11"
-  dateReadable: "11 czerwiec"
+  dateReadable: "11 czerwca"
   tracks:
     - {title: "Prelekcje", color: "#90be4e"}
-    - {title: "Warsztaty", color: "#03a9f4"}
   timeslots:
     - {
       startTime: "10:00",
-      endTime: "10:45",
-      sessionIds: []
+      endTime: "10:25",
+      sessionIds: [006]
     }
     - {
-      startTime: "11:00",
-      endTime: "11:45",
-      sessionIds: []
+      startTime: "10:30",
+      endTime: "11:15",
+      sessionIds: [007]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: []
+      startTime: "11:30",
+      endTime: "12:15",
+      sessionIds: [008]
+    }
+    - {
+      startTime: "12:30",
+      endTime: "13:15",
+      sessionIds: [009]
+    }
+    - {
+      startTime: "13:15",
+      endTime: "14:15",
+      sessionIds: [010]
     }
     - {
       startTime: "14:00",
-      endTime: "15:00",
-      sessionIds: []
+      endTime: "14:25",
+      sessionIds: [011]
+    }
+    - {
+      startTime: "14:30",
+      endTime: "14:55",
+      sessionIds: [012]
+    }
+    - {
+      startTime: "15:00",
+      endTime: "15:45",
+      sessionIds: [013]
+    }
+    - {
+      startTime: "16:00",
+      endTime: "16:45",
+      sessionIds: [014]
+    }
+    - {
+      startTime: "17:00",
+      endTime: "17:45",
+      sessionIds: [015]
+    }
+    - {
+      startTime: "18:00",
+      endTime: "18:45",
+      sessionIds: [016]
+    }
+    - {
+      startTime: "19:30",
+      endTime: "23:00",
+      sessionIds: [017]
     }
 -
+  date: "2016-06-11"
+  dateReadable: "11 czerwca"
+  tracks:
+    - {title: "Warsztaty", color: "#03a9f4"}
+  timeslots:
+    - {
+      startTime: "11:00",
+      endTime: "15:00",
+      sessionIds: [002]
+    }
+    - {
+      startTime: "13:00",
+      endTime: "18:00",
+      sessionIds: [003]
+    }
+
+-
   date: "2016-06-12"
-  dateReadable: "12 czerwiec"
+  dateReadable: "12 czerwca"
   tracks:
     - {title: "Unconference", color: "#90be4e"}
   timeslots:
     - {
       startTime: "10:00",
-      endTime: "10:45",
-      sessionIds: []
-    }
-    - {
-      startTime: "11:00",
-      endTime: "11:45",
-      sessionIds: []
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: []
-    }
-    - {
-      startTime: "14:00",
       endTime: "15:00",
-      sessionIds: []
+      sessionIds: [001]
     }
+

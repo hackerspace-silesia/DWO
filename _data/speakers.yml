@@ -1,8 +1,49 @@
 -
-  id: 2
-  name: ""
-  surname: ""
+  id: 101
+  name: "Mateusz"
+  surname: "Juściński"
   company: ""
-  title: "DWO BDFL"
-  bio: "Dominik started DWO conference!"
-  thumbnailUrl: DominikKozaczko.png
+  title: ""
+  bio: ""
+  thumbnailUrl: MateuszJuscinski.png
+-
+  id: 102
+  name: "Mikołaj"
+  surname: "Pastuszko"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MikolajPastuszko.png
+-
+  id: 103
+  name: "Stanisław"
+  surname: "Klekot"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: StaszekKlekot.png
+-
+  id: 104
+  name: "Michał"
+  surname: "Pipa"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MichalPipa.png
+-
+  id: 105
+  name: "Marcin"
+  surname: "Hłybin"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MarcinHlybin.png
+-
+  id: 106
+  name: "Justyna"
+  surname: "Żarna"
+  company: "Solution4Future"
+  title: "CEO"
+  bio: ""
+  thumbnailUrl: JustynaZarna.png
+

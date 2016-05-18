@@ -4,6 +4,162 @@
   description: "Unconference."
   subtype: workshop
   speakers: []
-  language: en
+  language: pl
   complexity: "Intermediate"
   video: ""
+-
+  id: 002
+  title: "Wprowadzenie do Symfony"
+  description: "Na tym warsztacie poznamy podstawy tworzenia aplikacji webowych w języku PHP z użyciem frameworka Symfony. Jest to jeden z obecnie najpopularniejszych i najlepszych frameworków w PHP. Stworzymy prostą aplikację i na jej przykładzie poznamy najważniejsze komponenty Symfony.
+
+Do uczestnictwa nie jest wymagana znajomość Symfony, ale przyda się przynajmniej podstawowa znajomość programowania obiektowego w PHP. Uczestnicy powinni mieć własny laptop z zainstalowanym PHP 5.5 i serwerem baz danych (np. MySQL)."
+  subtype: workshop
+  speakers: [104]
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 003
+  title: "Podstawy Ansible"
+  description: "Kurs podstawowy Ansible, świetnego systemu do zarządzania konfiguracją serwerową oraz deploymentu aplikacji. W ramach warsztatu omówimy konfigurację środowiska, struktury danych, budowanie roli oraz własne filtry w Pythonie.
+
+Do warsztatów wymagany laptop, klient SSH oraz opcjonalnie telefon z Internetem hotspot."
+  subtype: workshop
+  speakers: [105]
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 004
+  title: "Mistrzowie Kodowania"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: pl
+  complexity: "Beginner"
+  video: ""
+-
+  id: 005
+  title: "Robotyka dla najmłodszych"
+  description: ""
+  subtype: workshop
+  speakers: []
+  language: pl
+  complexity: "Beginner"
+  video: ""
+-
+  id: 006
+  title: "Powitanie"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 007
+  title: "TBA"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 008
+  title: "Od studenta do core-committera - przygoda z Google Summer of Code i Elixirem"
+  description: "Google Summer of Code jest programem oferującym studentom możliwość płatnej pracy nad różnymi projektami Open-Source - od kernela Linuxa, przez narzędzia wykorzystywane przez naukowców w CERN po ulepszanie frameworków jak Ruby-on-Rails. Studenci w naturalny sposób są wprowadzani w świat Open-Source, jego mechanizmy i specyfikę. Dla wielu projektów to jedyna szansa, by pracował nad nimi ktoś, kto dostaje za to wynagrodzenie. Nierzadko jest to również okazja, by przekonać owych studentów do dłuższej pracy przy projekcie i pozyskanie w ten sposób nowych członków teamu.
+
+Tak było w moim przypadku. Ubiegłego lata pracowałem nad biblioteką bazodanową Ecto dla Elixira, w szczególności nad otwarciem jej na bazy NoSQL. Moim mentorem był Jose Valim - twórca Elixira. Efektem 3 miesięcznego projektu jest adapter dla MongoDB oraz większe wsparcie dla elementów NoSQL w regularnych bazach, jak choćby postgresowego jsonb. Pod koniec projektu zostałem poproszony o dołączenie do zespołu rozwijającego Ecto i od tego czasu nad nim pracuję.
+
+Ecto jest jednym z największych i najstarszych projektów w Elixirze z niemal 3000 commitów, 200 kontrybutorami i 800 000 pobrań. Mimo tego jest wciąż aktywnie rozwijane z wersją 2.0 tuż za rogiem zmieniającą perspektywę na rolę biblioteki w aplikacjach.
+
+W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summer of Code - jak mogą w nim uczestniczyć jako studenci, oraz dlaczego powinno im na nim zależeć jako programistom. Dlaczego zdecydowałem się wybrać Elixir - nowy, acz perspektywiczny język jako cel projektu oraz co takiego w nim siedzi i dlaczego należy zwrócić na niego uwagę. Usłyszą również nieco więcej o samym projekcie Ecto - czym jest i dlaczego jest interesujący. W końcu widownia dowie się, jak wygląda praca w większym projekcie open-source.
+"
+  subtype: presentation
+  speakers: []
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 009
+  title: "Organizacja pracy developera, czyli jak szybciej dostarczać lepszy soft niższym kosztem"
+  description: "Od kontroli wersji po automatyzację procesów dostarczania oprogramowania: implementacja CI/CD, praktyki, use cases, najczęstsze błędy."
+  subtype: presentation
+  speakers: []
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 010
+  title: "Przerwa obiadowa"
+  place: "Stołówka"
+  description: ""
+  service: true
+-
+  id: 011
+  title: "Projektowanie REST API w Django"
+  description: "Projekt architektury systemu oraz kodu źródłowego ma znaczący wpływ na jakości tworzonego oprogramowania. W ramach prezentacji omówione zostaną koncepty, narzędzia i wzorce które warto stosować przy projektowaniu i budowaniu API RESTowego w zależności od jego przeznaczenia. Prezentacja zostanie podparta przykładami kodu w Pythonie."
+  subtype: presentation
+  speakers: []
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 012
+  title: "ELK - zapanuj nad logami"
+  description: "Logi są jednym z ważniejszych elementów aplikacji, żyjącej sobie w świecie produkcyjnym. Pomagają w wykrywaniu błędów, a także w eliminowania ich przyczyny. Niestety często analiza logów bywa utrudniona - musimy posiadać ich kopię lub bezpośredni dostęp do serwera produkcyjnego, czasem znajdują się w kilku różnych lokalizacjach, czy też są po prostu za duże, aby wygodnie je analizować.
+
+Dlatego podczas prezentacji chcę omówić ELK stack (Elasticsearch, Logstash, Kibana). Przedstawię sposób na scentralizowanie i zwizualizowanie logów całego ekosystemu aplikacji w jednym miejscu."
+  subtype: presentation
+  speakers: []
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 013
+  title: "TBA"
+  description: ""
+  subtype: presentation
+  speakers: [102]
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 014
+  title: "Krótka przypowieść o buzzwordach"
+  description: "W dzisiejszych czasach nowe technologie powstają jak grzyby po deszczu. Wiele z nich uznaje się za \"niezbędne do tworzenia nowoczesnych, skalowalnych  aplikacji\". W większości przypadków marketing i buzz dookoła nich nie mają nic wspólnego z realnymi potrzebami naszych aplikacji.
+
+W krótkiej prezentacji przedstawię kilka \"modnych\" technologii, które mimo że uważane za niezbędne, wcale nie ułatwią nam tworzenia aplikacji. Równocześnie pokażę jak się bez nich obyć i dalszym ciągu tworząc nowoczesne i skalowalne aplikacje. Jedyna co tracimy to bycie \"trendi\"."
+  subtype: presentation
+  speakers: [101]
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 015
+  title: "Efekt motyla – czyli jak można pracować z systemami legacy w PHPie"
+  description: "Jako programiści jesteśmy bardzo dobrzy w wprowadzaniu dużej entropii (chaosu) w tworzonych przez nas aplikacjach. Często dochodzimy do tzw “efektu motyla” gdzie wprowadzenie zmiany w jednym miejscu systemu powoduje katastrofalne skutki w innym miejscu. W mojej prezentacji na podstawie przykładów z projektów legacy nad którymi miałem \"przyjemność\" pracować chciałbym podzielić się kilkoma technikami które pomagają zapanować nad chaosem i docelowo pozwalają zmniejszyć entropie w naszym kodzie. Powiemy sobie między innymi o rzecach takich jak ACL (Anti-Corruption Layer) o tym jak anemia może nam się odbić czykawką oraz o tym że zasady oraz wzorce między innymi DRY (don't repeat yourself) trzeba używać z głową."
+  subtype: presentation
+  speakers: []
+  language: pl
+  complexity: "Intermediate"
+  video: ""
+-
+  id: 016
+  title: "Paczkowanie softu w Linuksie dla zajętych"
+  description: "Przygotowywanie własnych pakietów z oprogramowaniem jest bardzo przydatną, choć mocno niedocenianą umiejętnością. Pozwala na powtarzalny deployment aplikacji na serwerze, łatwe odtwarzanie używanych programów po reinstalacji desktopa i na szybkie przygotowanie środowiska roboczego dla nowego programisty.
+
+Podczas wykładu opowiem o budowie plików DEB i RPM, pokażę jak zbudować własny pakiet od zera i bez używania generatorów pakietów i zademonstruję publikowanie pakietów we własnym repozytorium."
+  subtype: presentation
+  speakers: [103]
+  language: pl
+  complexity: "Expert"
+  video: ""
+-
+  id: 017
+  title: "Afterparty"
+  description: ""
+  service: true
+
+

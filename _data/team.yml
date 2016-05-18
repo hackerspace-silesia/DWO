@@ -2,8 +2,27 @@
   id: 1
   name: "Dominik"
   surname: "Kozaczko"
-  company: "Solution4Future"
+  company: "Akademia Techniczno-Humanistyczna"
   title: "DWO BDFL"
-  bio: "Dominik started DWO conference!"
+  bio: "Dominik zainicjował Dni Wolnego Oprogramowania po rozmowach ze swoimi uczniami w V LO w Bielsku-Białej. Oni chcieli zrobić warsztaty z Linuksa, on chciał zrobić zlot informatyków z prelekcjami dla uczniów na temat Open Source."
   thumbnailUrl: DominikKozaczko.png
   team: true
+-
+  id: 2
+  name: "Błażej"
+  surname: "Faliszek"
+  company: "Hackerspace Silesia"
+  title: ""
+  bio: ""
+  thumbnailUrl: BlazejFaliszek.png
+  team: true
+-
+  id: 3
+  name: "Wojciech"
+  surname: "Legierski"
+  company: "Redber"
+  title: ""
+  bio: ""
+  thumbnailUrl: WojciechLegierski.png
+  team: true
+

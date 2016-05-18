@@ -99,8 +99,8 @@ pl:
   partnersC4sponsorsButton: "Zostań sponsorem"
   statisticBlockImage: "statistic.jpg"
   statisticBlock:
-   - {count: "300", specialCharacter: "+", info: "uczestników", detail: "z całej Polski"}
-   - {count: "20", specialCharacter: "+", info: "prelegentów", detail: "z różnych dziedzin"}
+   - {count: "150", specialCharacter: "+", info: "uczestników", detail: "z całej Polski"}
+   - {count: "15", specialCharacter: "+", info: "prelegentów", detail: "z różnych dziedzin"}
    - {count: "3", specialCharacter: "", info: "dni", detail: "świata otwartego oprogramowania"}
   blogTitle: "Aktualności"
   latestNewsTitle: "Aktualności"
@@ -176,8 +176,8 @@ en:
   # Statistic Block
   statisticBlockImage: "statistic.jpg"
   statisticBlock:
-   - {count: "300", specialCharacter: "+", info: "attendees", detail: "from whole Poland and Europe"}
-   - {count: "20", specialCharacter: "+", info: "speakers", detail: "with different expertise"}
+   - {count: "150", specialCharacter: "+", info: "attendees", detail: "from whole Poland and Europe"}
+   - {count: "15", specialCharacter: "+", info: "speakers", detail: "with different expertise"}
    - {count: "3", specialCharacter: "", info: "days", detail: "world of open source"}
 
   blogTitle: "Latest news"

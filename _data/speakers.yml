@@ -24,20 +24,20 @@
   thumbnailUrl: StaszekKlekot.png
 -
   id: 104
-  name: "Michał"
-  surname: "Pipa"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: MichalPipa.png
--
-  id: 105
   name: "Marcin"
   surname: "Hłybin"
   company: ""
   title: ""
   bio: ""
   thumbnailUrl: MarcinHlybin.png
+-
+  id: 105
+  name: "Michał"
+  surname: "Pipa"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: MichalPipa.png
 -
   id: 106
   name: "Justyna"

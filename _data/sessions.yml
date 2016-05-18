@@ -14,7 +14,7 @@
 
 Do uczestnictwa nie jest wymagana znajomość Symfony, ale przyda się przynajmniej podstawowa znajomość programowania obiektowego w PHP. Uczestnicy powinni mieć własny laptop z zainstalowanym PHP 5.5 i serwerem baz danych (np. MySQL)."
   subtype: workshop
-  speakers: [104]
+  speakers: [105]
   language: pl
   complexity: "Intermediate"
   video: ""
@@ -25,7 +25,7 @@ Do uczestnictwa nie jest wymagana znajomość Symfony, ale przyda się przynajmn
 
 Do warsztatów wymagany laptop, klient SSH oraz opcjonalnie telefon z Internetem hotspot."
   subtype: workshop
-  speakers: [105]
+  speakers: [104]
   language: pl
   complexity: "Intermediate"
   video: ""

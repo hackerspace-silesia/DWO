@@ -29,7 +29,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://hs-silesia.pl/"
 
 # Head
-twitterAccount: "@DevFest"
+twitterAccount: "@dwo_info_pl"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -79,7 +79,7 @@ pl:
   heroImage: "hero.jpg"
   eventDate: "10-12 czerwca, 2016"
   typeoutTextValues: '"", "Bielsko-Biała", "Polska", "ATH"'
-  typeoutFallback: "Season"
+  typeoutFallback: "Dni Wolnego Oprogramowania"
   heroButtons:
    - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
    - {permalink: "/#tickets", text: "Zdobądź bilet!"}
@@ -226,9 +226,9 @@ mapMobileCenterCoordinates: "49.7841414, 19.0577026"
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
-# tweetsFeedTitle: "What's Up?"
-# twitterHashTag: "dwo"
-# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+# tweetsFeedTitle: "Co w lesie ćwierka?"
+# twitterHashTag: "DWO2016"
+# twitterFeed: "http://???"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -237,7 +237,7 @@ partnersTitle: "Partners"
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
 # subscribeTitle: "Subscribe for updates"
-# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+# subscribeAction: "https://???"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Footer
@@ -247,7 +247,7 @@ socialLinks:
 
 # Blog
 blogCommentsEnabled: false
-discusShortName: "devfestua"
+# discusShortName: "devfestua"
 
 # Speakers List Block
 showSessions: false

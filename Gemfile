@@ -6,4 +6,3 @@ gem 'sass-media_query_combiner'
 gem 'autoprefixer-rails'
 gem 'pry'
 gem 'jekyll-multiple-languages-plugin'
-

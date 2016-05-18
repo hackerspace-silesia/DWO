@@ -35,7 +35,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform"
+#c4pUrl: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform"
 
 
 # TRANSLATION with Arrays
@@ -48,9 +48,11 @@ pl:
    - {permalink: "/team/", text: "Zespół"}
    - {permalink: "/logistics/", text: "Miejsce"}
   bottomNavigationLinks:
-   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
+   - {}
+#   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
   rightNavigationButtons:
-   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
+   - {}
+#   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
   aboutTitle: "O Dniach Wolnego Oprogramowania"
   aboutBlock:
   - {title: "Idea", image: "conference.jpg", text: "Ruch Open Source to przede wszystkim nastawienie na innowacyjność, kreatywność i chęć dzielenia się wiedzą. Nie ogranicza się on wyłącznie do kodu źródłowego aplikacji - ruch ten wywiera wpływ na ekologię, sprzęt, powszechny dostęp do wiedzy i edukacji." }
@@ -81,7 +83,7 @@ pl:
   typeoutTextValues: '"", "Bielsko-Biała", "Polska", "ATH"'
   typeoutFallback: "Dni Wolnego Oprogramowania"
   heroButtons:
-   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
+#   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
    - {permalink: "/#tickets", text: "Zdobądź bilet!"}
 
   footerBlocks:
@@ -107,8 +109,8 @@ pl:
 
   directionDetailsTitle: "Informacje o Bielsku-Białej"
   directionDetailsCards:
-   - {title: "Transport publiczny", information: 'By poruszać się po bielsku polecamy rozkład jazdy MZK http://www.mzkb-b.internetdsl.pl/linie.htm'}
-   - {title: "Hotele", information: 'Bielsko-Biała ma wiele dobrych hosteli i hoteli..'}
+   - {title: "Transport publiczny", information: 'By poruszać się po Bielsku-Białej polecamy rozkład jazdy MZK http://www.mzkb-b.internetdsl.pl/linie.htm'}
+   - {title: "Hotele", information: 'Bielsko-Biała ma wiele dobrych hosteli i hoteli.'}
    - {title: "Góry", information: 'Z Bielska-Białej można szybko wyskoczyć w góry na Szyndzielnię lub Klimczok.'}
   # Team Block
 
@@ -124,9 +126,11 @@ en:
    - {permalink: "/team/", text: "Team"}
    - {permalink: "/logistics/", text: "Logistics"}
   bottomNavigationLinks:
-   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Become a speaker"}
+   - {}
+#   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Become a speaker"}
   rightNavigationButtons:
-   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Become a speaker"}
+   - {}
+#   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Become a speaker"}
   aboutTitle: "About Open Source Days"
   aboutBlock:
   - {title: "Idea", image: "conference.jpg", text: "Ruch Open Source to przede wszystkim nastawienie na innowacyjność, kreatywność i chęć dzielenia się wiedzą. Nie ogranicza się on wyłącznie do kodu źródłowego aplikacji - ruch ten wywiera wpływ na ekologię, sprzęt, powszechny dostęp do wiedzy i edukacji." }
@@ -157,7 +161,7 @@ en:
   typeoutTextValues: '"", "Bielsko-Biała", "Polska", "ATH"'
   typeoutFallback: "Season"
   heroButtons:
-   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Become a speaker"}
+#   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Become a speaker"}
    - {permalink: "/#tickets", text: "Get tickets"}
   footerBlocks:
    -

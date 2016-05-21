@@ -77,7 +77,7 @@ Ecto jest jednym z największych i najstarszych projektów w Elixirze z niemal 3
 W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summer of Code - jak mogą w nim uczestniczyć jako studenci, oraz dlaczego powinno im na nim zależeć jako programistom. Dlaczego zdecydowałem się wybrać Elixir - nowy, acz perspektywiczny język jako cel projektu oraz co takiego w nim siedzi i dlaczego należy zwrócić na niego uwagę. Usłyszą również nieco więcej o samym projekcie Ecto - czym jest i dlaczego jest interesujący. W końcu widownia dowie się, jak wygląda praca w większym projekcie open-source.
 "
   subtype: presentation
-  speakers: []
+  speakers: [107]
   language: pl
   complexity: "Intermediate"
   video: ""
@@ -101,7 +101,7 @@ W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summe
   title: "Projektowanie REST API w Django"
   description: "Projekt architektury systemu oraz kodu źródłowego ma znaczący wpływ na jakości tworzonego oprogramowania. W ramach prezentacji omówione zostaną koncepty, narzędzia i wzorce które warto stosować przy projektowaniu i budowaniu API RESTowego w zależności od jego przeznaczenia. Prezentacja zostanie podparta przykładami kodu w Pythonie."
   subtype: presentation
-  speakers: []
+  speakers: [106]
   language: pl
   complexity: "Intermediate"
   video: ""
@@ -141,7 +141,7 @@ W krótkiej prezentacji przedstawię kilka \"modnych\" technologii, które mimo 
   title: "Efekt motyla – czyli jak można pracować z systemami legacy w PHPie"
   description: "Jako programiści jesteśmy bardzo dobrzy w wprowadzaniu dużej entropii (chaosu) w tworzonych przez nas aplikacjach. Często dochodzimy do tzw “efektu motyla” gdzie wprowadzenie zmiany w jednym miejscu systemu powoduje katastrofalne skutki w innym miejscu. W mojej prezentacji na podstawie przykładów z projektów legacy nad którymi miałem \"przyjemność\" pracować chciałbym podzielić się kilkoma technikami które pomagają zapanować nad chaosem i docelowo pozwalają zmniejszyć entropie w naszym kodzie. Powiemy sobie między innymi o rzecach takich jak ACL (Anti-Corruption Layer) o tym jak anemia może nam się odbić czykawką oraz o tym że zasady oraz wzorce między innymi DRY (don't repeat yourself) trzeba używać z głową."
   subtype: presentation
-  speakers: []
+  speakers: [108]
   language: pl
   complexity: "Intermediate"
   video: ""

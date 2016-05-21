@@ -20,8 +20,8 @@
   surname: "Klekot"
   company: ""
   title: ""
-  bio: ""
-  thumbnailUrl: StaszekKlekot.png
+  bio: "Sezonowany (czyt. zasuszony) sysadmin i programista systemowy. Miłośnik języków funkcyjnych (o ile są Erlangiem), systemów pakietów i narzędzia 'make'."
+  thumbnailUrl: StaszekKlekot.jpg
 -
   id: 104
   name: "Marcin"
@@ -45,4 +45,38 @@
   company: "Solution4Future"
   title: "CEO"
   bio: ""
-  thumbnailUrl: JustynaZarna.png
+  thumbnailUrl: JustynaZarna.jpg
+-
+  id: 107
+  name: "Michał"
+  surname: "Muskała"
+  #~ company: ""
+  #~ title: "CEO"
+  bio: ""
+  thumbnailUrl: MichalMuskala.jpg
+-
+  id: 108
+  name: "Leszek"
+  surname: "Prabucki"
+  #~ company: "Solution4Future"
+  #~ title: "CEO"
+  bio: "Programista PHP od 2007 roku. Ekspert w Symfony oraz pasjonat tematów związanych z szeroko pojętą jakością oprogramowania. Posiada doświadczenie w pracy z metodykami zwinnymi. Gracz zespołowy. By dostarczyć jak najlepsze oprogramowanie skupia się na poznaniu mechanizmów biznesowych klienta, używając do tego technik takich z pogranicza BDD i DDD (np. Impact Mapping, Event Storming). Lubi piwo oraz jest pasjonatem ruchu wolnego oprogramowania. Współorganizator spotkań PHPers w Trójmieście."
+  thumbnailUrl: LeszekPrabucki.jpg
+-
+  id: 109
+  name: "Krzysztof"
+  surname: "Sobkowiak"
+  #~ company: ""
+  #~ title: "CEO"
+  bio: "Entuzjasta i architekt rozwiązań Open Source. Od 3 lat aktywnie uczestniczy w licznych projektach open source. Od roku członek Apache Software Foundation oraz kierownik projektu Apache ServiceMix. Szczególnie zainteresowany rozwojem skalowalnych, wydajnych rozwiązań integracyjnych, bazujących na produktach Open Source.
+Starszy architekt rozwiązań w Capgemini z kilkunastoletnim doświadczeniem w tworzeniu rozwiązań Java Enterprise oraz integracji systemów dla klientów z branży  logistycznej. 
+Współzałożyciel i trener w RoboCap.pl. Prywatnie uwielbia relaksować się słuchając ostrej muzyki i oglądając horrory, wypoczywa przemierzając górskie szlaki. Współorganizator zlotów fanów muzyki folkmetalowej."
+  thumbnailUrl: KrzysztofSobkowiak.jpg
+-
+  id: 110
+  name: "Rafał"
+  surname: "Sztwiorok"
+  #~ company: ""
+  #~ title: "CEO"
+  bio: ""
+  #~ thumbnailUrl: MichalMuskala.jpg

@@ -76,10 +76,10 @@ Współzałożyciel i trener w RoboCap.pl. Prywatnie uwielbia relaksować się s
   id: 110
   name: "Rafał"
   surname: "Sztwiorok"
-  #~ company: ""
+  company: "Infocloud"
   #~ title: "CEO"
   bio: ""
-  #~ thumbnailUrl: MichalMuskala.jpg
+  thumbnailUrl: RafalSztwiorok.jpg
 -
   id: 111
   name: "Adrian"

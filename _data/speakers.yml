@@ -80,3 +80,11 @@ Współzałożyciel i trener w RoboCap.pl. Prywatnie uwielbia relaksować się s
   #~ title: "CEO"
   bio: ""
   #~ thumbnailUrl: MichalMuskala.jpg
+-
+  id: 111
+  name: "Adrian"
+  surname: "Piętka"
+  #~ company: ""
+  #~ title: "CEO"
+  bio: ""
+  thumbnailUrl: AdrianPietka.jpg

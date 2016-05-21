@@ -6,7 +6,7 @@
   speakers: []
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 002
   title: "Wprowadzenie do Symfony"
@@ -17,7 +17,7 @@ Do uczestnictwa nie jest wymagana znajomość Symfony, ale przyda się przynajmn
   speakers: [105]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 003
   title: "Podstawy Ansible"
@@ -28,7 +28,7 @@ Do warsztatów wymagany laptop, klient SSH oraz opcjonalnie telefon z Internetem
   speakers: [104]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 004
   title: "Mistrzowie Kodowania"
@@ -37,7 +37,7 @@ Do warsztatów wymagany laptop, klient SSH oraz opcjonalnie telefon z Internetem
   speakers: []
   language: pl
   complexity: "Beginner"
-  video: ""
+  #~ video: ""
 -
   id: 005
   title: "Robotyka dla najmłodszych"
@@ -46,7 +46,7 @@ Do warsztatów wymagany laptop, klient SSH oraz opcjonalnie telefon z Internetem
   speakers: []
   language: pl
   complexity: "Beginner"
-  video: ""
+  #~ video: ""
 -
   id: 006
   title: "Powitanie"
@@ -55,16 +55,16 @@ Do warsztatów wymagany laptop, klient SSH oraz opcjonalnie telefon z Internetem
   speakers: [1]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 007
-  title: "TBA"
+  title: "Zrozumieć OpenSource"
   description: ""
   subtype: keynote
-  speakers: []
+  speakers: [109]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 008
   title: "Od studenta do core-committera - przygoda z Google Summer of Code i Elixirem"
@@ -86,10 +86,10 @@ W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summe
   title: "Organizacja pracy developera, czyli jak szybciej dostarczać lepszy soft niższym kosztem"
   description: "Od kontroli wersji po automatyzację procesów dostarczania oprogramowania: implementacja CI/CD, praktyki, use cases, najczęstsze błędy."
   subtype: presentation
-  speakers: []
+  speakers: [110]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 010
   title: "Przerwa obiadowa"
@@ -104,7 +104,7 @@ W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summe
   speakers: [106]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 012
   title: "ELK - zapanuj nad logami"
@@ -112,19 +112,19 @@ W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summe
 
 Dlatego podczas prezentacji chcę omówić ELK stack (Elasticsearch, Logstash, Kibana). Przedstawię sposób na scentralizowanie i zwizualizowanie logów całego ekosystemu aplikacji w jednym miejscu."
   subtype: presentation
-  speakers: []
+  speakers: [111]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 013
-  title: "TBA"
+  title: "Jak zbudowałem zespół UX"
   description: ""
   subtype: presentation
   speakers: [102]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 014
   title: "Krótka przypowieść o buzzwordach"
@@ -135,7 +135,7 @@ W krótkiej prezentacji przedstawię kilka \"modnych\" technologii, które mimo 
   speakers: [101]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 015
   title: "Efekt motyla – czyli jak można pracować z systemami legacy w PHPie"
@@ -144,7 +144,7 @@ W krótkiej prezentacji przedstawię kilka \"modnych\" technologii, które mimo 
   speakers: [108]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 016
   title: "Paczkowanie softu w Linuksie dla zajętych"
@@ -155,7 +155,7 @@ Podczas wykładu opowiem o budowie plików DEB i RPM, pokażę jak zbudować wł
   speakers: [103]
   language: pl
   complexity: "Expert"
-  video: ""
+  #~ video: ""
 -
   id: 017
   title: "Afterparty"

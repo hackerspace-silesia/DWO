@@ -80,7 +80,7 @@ W trakcie prezentacji słuchacze dowiedzą się więcej o projekcie Google Summe
   speakers: [107]
   language: pl
   complexity: "Intermediate"
-  video: ""
+  #~ video: ""
 -
   id: 009
   title: "Organizacja pracy developera, czyli jak szybciej dostarczać lepszy soft niższym kosztem"

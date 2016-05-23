@@ -24,7 +24,7 @@ gems:
 organizerName: "Hackerspace Silesia"
 organizerAlternateName: "Hackerspace Sielsia"
 organizerDescription: "Hackerspace Silesia is community of geeks and hackers who are passionate about playing with technology, creating new things and explore new possibilites."
-organizerEmail: "info@hs-silesia.pl"
+organizerEmail: "dwo@kozaczko.info"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://hs-silesia.pl/"
 
@@ -43,8 +43,8 @@ pl:
   navigationLinks:
    - {permalink: "/", text: "Home"}
    - {permalink: "/blog/", text: "Blog"}
-   - {permalink: "/schedule/", text: "Agenda"}
-   - {permalink: "/speakers/", text: "Prelegenci"}
+   #~ - {permalink: "/schedule/", text: "Agenda"}
+   #~ - {permalink: "/speakers/", text: "Prelegenci"}
    - {permalink: "/team/", text: "Zespół"}
    - {permalink: "/logistics/", text: "Miejsce"}
   bottomNavigationLinks:
@@ -60,18 +60,18 @@ pl:
   - {title: "Warsztaty", image: "hackathon.jpg", text: "W społeczności Open Source jest wiele osób, które posiadają konkretne umiejętności, a przy tym chętnie się nimi dzielą. Wielu jest również tych, którzy starają się tego rodzaju umiejętności w sobie wykształcić. Warsztaty pozwalają im się spotkać." }
   prelegentTitle: "Prelegenci"
   ticketsTitle: "Bilety"
-  ticketsOffers:
-   -
-    name: "Bilet pingwinka na konferencję DWO"
-    price: "FREE!"
-    ticketsNumber: "400"
-    featured: true
-    buyButtonLink: ""
-    buyButtonText: "Zbierz wejściówkę teraz!"
-    ticketContentList: ["Warsztaty", "Prelekcje", "Unconference"]
-    validFrom: "2016-05-25T00:00"
-    validThrough: "2016-06-12T23:59"
-    disabled: true
+  #~ ticketsOffers:
+   #~ -
+    #~ name: "Bilet pingwinka na konferencję DWO"
+    #~ price: "FREE!"
+    #~ ticketsNumber: "400"
+    #~ featured: true
+    #~ buyButtonLink: ""
+    #~ buyButtonText: "Zbierz wejściówkę teraz!"
+    #~ ticketContentList: ["Warsztaty", "Prelekcje", "Unconference"]
+    #~ validFrom: "2016-05-25T00:00"
+    #~ validThrough: "2016-06-12T23:59"
+    #~ disabled: true
   # Venue Block
   venueBlockTitle: "Miejsce"
   venueTitle: "Budynek L ATH"
@@ -79,8 +79,8 @@ pl:
 
   # Hero Block
   heroImage: "hero.jpg"
-  eventDate: "10-12 czerwca, 2016"
-  typeoutTextValues: '"", "Bielsko-Biała", "Polska", "ATH"'
+  eventDate: "wiosna 2017"
+  #~ typeoutTextValues: '"", "Bielsko-Biała", "Polska", "ATH"'
   typeoutFallback: "Dni Wolnego Oprogramowania"
   heroButtons:
 #   - {link: "https://docs.google.com/forms/u/0/d/1g1DiBheRSBTqCL5YPWfd1RAqqfPZrITz4J2LDIeUbH4/viewform", text: "Zostań prelegentem"}
@@ -90,7 +90,7 @@ pl:
    -
     title: "Kontakt"
     links:
-     - {link: "mailto:kontakt@hs-silesia.pl", text: "kontakt@hs-silesia.pl"}
+     - {link: "mailto:dwo@kozaczko.info", text: "dwo@kozaczko.info"}
    -
     title: "FAQ"
     links:
@@ -110,7 +110,7 @@ pl:
   directionDetailsTitle: "Informacje o Bielsku-Białej"
   directionDetailsCards:
    - {title: "Transport publiczny", information: 'By poruszać się po Bielsku-Białej polecamy rozkład jazdy MZK http://www.mzkb-b.internetdsl.pl/linie.htm'}
-   - {title: "Hotele", information: 'Bielsko-Biała ma wiele dobrych hosteli i hoteli.'}
+   #~ - {title: "Hotele", information: 'Bielsko-Biała ma wiele dobrych hosteli i hoteli.'}
    - {title: "Góry", information: 'Z Bielska-Białej można szybko wyskoczyć w góry na Szyndzielnię lub Klimczok.'}
   # Team Block
 
@@ -121,8 +121,8 @@ en:
   navigationLinks:
    - {permalink: "/", text: "Home"}
    - {permalink: "/blog/", text: "Blog"}
-   - {permalink: "/schedule/", text: "Schedule"}
-   - {permalink: "/speakers/", text: "Speakers"}
+   #~ - {permalink: "/schedule/", text: "Schedule"}
+   #~ - {permalink: "/speakers/", text: "Speakers"}
    - {permalink: "/team/", text: "Team"}
    - {permalink: "/logistics/", text: "Logistics"}
   bottomNavigationLinks:
@@ -138,18 +138,18 @@ en:
   - {title: "Workshops", image: "hackathon.jpg", text: "W społeczności Open Source jest wiele osób, które posiadają konkretne umiejętności, a przy tym chętnie się nimi dzielą. Wielu jest również tych, którzy starają się tego rodzaju umiejętności w sobie wykształcić. Warsztaty pozwalają im się spotkać." }
   prelegentTitle: "Prelegents"
   ticketsTitle: "Tickets"
-  ticketsOffers:
-   -
-    name: "Pinguing tickets on OSD conference"
-    price: "Conference is free"
-    ticketsNumber: "400"
-    featured: true
-    buyButtonLink: ""
-    buyButtonText: "Zbierz wejściówkę teraz!"
-    ticketContentList: ["Warsztaty", "Prelekcje", "Unconference"]
-    validFrom: "2016-05-25T00:00"
-    validThrough: "2016-06-12T23:59"
-    disabled: true
+  #~ ticketsOffers:
+   #~ -
+    #~ name: "Pinguing tickets on OSD conference"
+    #~ price: "Conference is free"
+    #~ ticketsNumber: "400"
+    #~ featured: true
+    #~ buyButtonLink: ""
+    #~ buyButtonText: "Zbierz wejściówkę teraz!"
+    #~ ticketContentList: ["Warsztaty", "Prelekcje", "Unconference"]
+    #~ validFrom: "2016-05-25T00:00"
+    #~ validThrough: "2016-06-12T23:59"
+    #~ disabled: true
   # Venue Block
   venueBlockTitle: "Venue"
   venueTitle: "Building L ATH"
@@ -157,7 +157,7 @@ en:
 
   # Hero Block
   heroImage: "hero.jpg"
-  eventDate: "10-12 June, 2016"
+  eventDate: "Spring 2017"
   typeoutTextValues: '"", "Bielsko-Biała", "Polska", "ATH"'
   typeoutFallback: "Season"
   heroButtons:
@@ -167,7 +167,7 @@ en:
    -
     title: "Contact"
     links:
-     - {link: "mailto:kontakt@hs-silesia.pl", text: "kontakt@hs-silesia.pl"}
+     - {link: "mailto:dwo@kozaczko.info", text: "dwo@kozaczko.info"}
    -
     title: "FAQ"
     links:
@@ -212,18 +212,18 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Lokalizacja"
-eventLocationName: "Budynek L (Sala L128) ATH"
-eventLocationLink: "http://info.ath.bielsko.pl/"
-eventStreetAddress: "Willowa 2"
+#~ eventLocationName: "Budynek L (Sala L128) ATH"
+#~ eventLocationLink: "http://info.ath.bielsko.pl/"
+#~ eventStreetAddress: "Willowa 2"
 eventAddressLocality: "Bielsko-Biała"
 eventAddressLocalityRegion: "Śląsk"
 eventPostalCode: "43-300"
 eventAddressCountry: "Polska"
-eventStartTime: "2016-06-10T15:00"
+eventStartTime: "2017"
 eventDoorTime: "15:00"
 eventStartAddrTime: "10:00"
 eventEndAddrTime: "22:00"
-eventStartTime: "2016-06-12T15:00"
+eventStartTime: "2017"
 eventPlaceCoordinates: "49.783050, 19.057579"
 mapCenterCoordinates: "49.7841414, 19.0577026"
 mapMobileCenterCoordinates: "49.7841414, 19.0577026"
